@@ -1,0 +1,21 @@
+﻿<Window x:Class="Register.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Register"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="400">
+    <Grid>
+        <Label Content="Email Adress" HorizontalAlignment="Left" Margin="31,121,0,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
+        <Label Content="Password" HorizontalAlignment="Left" Margin="31,158,0,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
+        <Label Content="LOGIN" HorizontalAlignment="Center" Margin="0,10,0,0" VerticalAlignment="Top" FontFamily="Times New Roman"/>
+        <TextBox x:Name="EmailTextBox" HorizontalAlignment="Left" Height="20" Margin="162,123,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198" TextChanged="TextBox_TextChanged" Background="#FFE0B8D7"/>
+        <TextBox x:Name="PasswordBox" HorizontalAlignment="Left" Height="20" Margin="162,158,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="198" Background="#FFE0B8D7"/>
+        <Button Content="Login" HorizontalAlignment="Left" Height="24" VerticalAlignment="Top" Width="84" Margin="167,234,0,0" FontFamily="Times New Roman" Background="#FFDFE044" Click="Button_Click_1"/>
+        <Button Content="Forgot Pasword" HorizontalAlignment="Left" Margin="31,368,0,0" VerticalAlignment="Top" FontFamily="Times New Roman" Background="#FFDFE044" Click="Button_Click_2"/>
+        <Button x:Name="Resgistrar" Content="Sign up" HorizontalAlignment="Left" Margin="261,368,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.489,1.572" FontFamily="Times New Roman" Background="#FFDFE044" Click="Button_Click" Width="99"/>
+        <Image HorizontalAlignment="Left" Height="64" Margin="168,39,0,0" VerticalAlignment="Top" Width="71" Source="/vector-letter-y-logo-purple-logo-design-concept-template.jpg"/>
+        
+    </Grid>
+</Window>

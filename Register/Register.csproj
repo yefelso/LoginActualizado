@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="vector-letter-y-logo-purple-logo-design-concept-template.jpg" />
+    <None Remove="y-brush-stroke-artistic-letter-logo-design-with-creative-modern-look-and-vibrant-colors-vector.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Data.SqlClient" Version="4.8.6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="vector-letter-y-logo-purple-logo-design-concept-template.jpg" />
+    <Resource Include="y-brush-stroke-artistic-letter-logo-design-with-creative-modern-look-and-vibrant-colors-vector.jpg" />
+  </ItemGroup>
+
+</Project>

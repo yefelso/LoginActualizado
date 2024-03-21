@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\Register\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|c:\\users\\user\\source\\repos\\register\\register\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|solutionrelative:register\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|c:\\users\\user\\source\\repos\\register\\register\\rcontrase\u00F1a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|solutionrelative:register\\rcontrase\u00F1a.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|c:\\users\\user\\source\\repos\\register\\register\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|solutionrelative:register\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|c:\\users\\user\\source\\repos\\register\\register\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|solutionrelative:register\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|c:\\users\\user\\source\\repos\\register\\register\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2DC642EB-3264-45E3-AAE8-58877269A8B9}|Register\\Register.csproj|solutionrelative:register\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Register\\Register\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Register\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Register\\Register\\MainWindow.xaml",
+              "RelativeToolTip": "Register\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T02:11:15.821Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rcontrase\u00F1a.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Register\\Register\\Rcontrase\u00F1a.xaml",
+              "RelativeDocumentMoniker": "Register\\Rcontrase\u00F1a.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Register\\Register\\Rcontrase\u00F1a.xaml",
+              "RelativeToolTip": "Register\\Rcontrase\u00F1a.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T03:32:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Register\\Register\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Register\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Register\\Register\\Login.xaml.cs",
+              "RelativeToolTip": "Register\\Login.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwEMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T03:00:01.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Register\\Register\\Login.xaml",
+              "RelativeDocumentMoniker": "Register\\Login.xaml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Register\\Register\\Login.xaml",
+              "RelativeToolTip": "Register\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-21T02:49:09.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\Register\\Register\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Register\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\Register\\Register\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Register\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wCwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-21T02:11:14.136Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
